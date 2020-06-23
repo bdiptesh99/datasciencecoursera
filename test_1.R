@@ -1,3 +1,6 @@
-print("Hello World")
-print("My new project on R")
-print("HI")
+
+
+example <- matrix(c(1,2,3,4,5,6,7,8),nrow = 4,ncol = 2);
+plot.default(example);
+
+print("Successful");
